@@ -13,7 +13,7 @@ const categories = [
 ]
 
 
-//here is the menu item data verify //that... don't think about categories on //the top
+//here is the menu item data verify //that... don't think about categories on //the top...If any doubts, queries and questions call me at any time..
 const menu_items=[
   {
     "name": "French Fries",
