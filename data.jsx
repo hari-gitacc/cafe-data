@@ -11,7 +11,7 @@ const categories = [
   { category: 'Drinks', },
   { category: 'Special', }
 ]
-[
+const menu_items=[
   {
     "name": "French Fries",
     "description": "French Fries",
