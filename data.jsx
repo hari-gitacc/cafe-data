@@ -11,6 +11,9 @@ const categories = [
   { category: 'Drinks', },
   { category: 'Special', }
 ]
+
+
+//here is the menu item data verify //that... don't think about categories on //the top
 const menu_items=[
   {
     "name": "French Fries",
